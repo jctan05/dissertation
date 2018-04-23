@@ -1,0 +1,5 @@
+
+#Ignore these folders when uploading to github
+.ipynb_checkpoints/
+*.pyc
+ROP_alldata.csv
